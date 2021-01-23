@@ -1,2 +1,2 @@
 # hello-world
-Git fundamentals
+Git fundamentals for a guy just learning Git. I hope I git it ...
